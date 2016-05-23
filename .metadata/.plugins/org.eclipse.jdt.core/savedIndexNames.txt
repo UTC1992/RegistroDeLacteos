@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+C:\AppEclipse\LACTEOS_IS\RegistroDeLacteos\.metadata\.plugins\org.eclipse.jdt.core
+2714522240.index
+1284074322.index
+2039003611.index
